@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b846ee79-7238-4d51-ba32-212a8c1a24db" name="Default Changelist" comment="2018/12/8 测试提交">
+    <list default="true" id="b846ee79-7238-4d51-ba32-212a8c1a24db" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/No2/两数相加/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/No2/两数相加/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +15,7 @@
     <session id="-1777198685">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="2" />
           <entry key="project.open.time.5" value="1" />
@@ -32,7 +31,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="398" />
-          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="PLAIN_TEXT" value="22" />
         </counts>
       </usages-collector>
     </session>
@@ -143,14 +142,14 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544270525888" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544270652670" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,7 +177,7 @@
       <workItem from="1544163816042" duration="862000" />
       <workItem from="1544164948762" duration="804000" />
       <workItem from="1544194601315" duration="12000" />
-      <workItem from="1544269152801" duration="1479000" />
+      <workItem from="1544269152801" duration="1557000" />
     </task>
     <task id="LOCAL-00001" summary="2018/12/7 首次提交">
       <created>1544163860468</created>
@@ -194,11 +193,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544269581149</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2018/12/8 测试提交2">
+      <created>1544270649404</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544270649404</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7295000" />
+    <option name="totallyTimeSpent" value="7373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -273,7 +279,8 @@
     </ignored-roots>
     <MESSAGE value="2018/12/7 首次提交" />
     <MESSAGE value="2018/12/8 测试提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="2018/12/8 测试提交" />
+    <MESSAGE value="2018/12/8 测试提交2" />
+    <option name="LAST_COMMIT_MESSAGE" value="2018/12/8 测试提交2" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/No1/两数之和/Solution.java">
