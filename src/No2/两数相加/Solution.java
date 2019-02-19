@@ -27,10 +27,12 @@ package No2.两数相加;
  */
 public class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        // 存储结果的链表 0是头节点 返回结果时返回l3.next
         ListNode l3 = new ListNode(0);
         ListNode p1 = l1;
         ListNode p2 = l2;
         ListNode p3 = l3;
+        // sum用来临时存储l1和l2每个节点相加的结果
         int sum = 0;
         while (p1 != null || p2 != null) {
             if (p1 != null) {
@@ -41,11 +43,14 @@ public class Solution {
                 sum += p2.val;
                 p2 = p2.next;
             }
+            // 由于每个节点只能存储一位数，所以取模后存入l3中的下一个新节点
             p3.next = new ListNode(sum % 10);
+            // 进位，计算下一l1和l2节点相加之前 sum为1；不进位 sum为0
             sum /= 10;
             p3 = p3.next;
         }
         if (sum == 1) {
+            // 进位
             p3.next = new ListNode(1);
         }
         return l3.next;
